@@ -1,0 +1,12 @@
+body {
+	behavior:url(csshover.htc);
+}
+#mainmenu li {
+	background:url(../../images/sepmenuie.png) no-repeat 100% 0;
+}
+#submenu li div #listdownload li a, #submenu li div #listdownload li a:link, #submenu li div #listdownload li a:visited, #submenu li div a, #submenu li div a:link, #submenu li div a:visited {
+	background:url(../../images/icon_downloadie.png) no-repeat 5px 4px;
+}
+#listpages {
+	margin:0;
+}

@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Your Website Title</title>
+	<meta name="description" content="Website Description" />
+	<meta name="keywords" content="Website Kwywords" />
+	<style type="text/css" media="all">@import "style/style.css";</style>
+	<!--[if lt IE 7]>
+    <style type="text/css">@import "style/ie.css";</style>
+    <script src="script/DD_belatedPNG.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        DD_belatedPNG.fix('#logo span, #placemonitor, #monitorlight, #submenu li div ');
+    </script>
+    <![endif]-->
+	<!--[if IE 7]>
+    <style type="text/css">@import "style/ie7.css";</style><![endif]-->
+	<script src="script/jquery.js" type="text/javascript"></script>
+	<script src="script/jquery_cycle.js" type="text/javascript"></script>
+	<script src="script/bubblepopup.js" type="text/javascript" ></script>
+	<script src="script/ui_core.js" type="text/javascript"></script>
+	<script src="script/ui_tabs.js" type="text/javascript"></script>
+	<script src="script/lightbox.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	$(function() {
+		$('#placeimages').cycle({ 
+			fx:    'fade', 
+			delay: 2000,
+			timeout: 4000
+		});
+		$('#placetabs ul').tabs({ fx: { opacity: 'toggle' } });
+		$('a.popup').lightBox({fixedNavigation:true});
+	});
+	</script>
+</head>
+<body>
+<p><a class="skiplink" href="#maincontent">Skip over navigation</a></p>
+<div id="wrapper">
+	<div id="header">
+		<a href="#" class="replace" id="logo"><span></span>MySotware - Some Slogan here</a>
+		<div id="headerright">
+			<div id="placemainmenu">
+				<ul id="mainmenu">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="#">Products</a>
+						<ul>
+							<li><a href="aboutus.html">About Us</a></li>
+							<li><a href="faq.html">FAQ</a></li>
+							<li><a href="news.html">News</a></li>
+							<li><a href="screenshot.html">Screenshot</a></li>
+							<li><a href="contactus.html">Contact Us</a></li>
+							<li><a href="withoutslide.html">Inner Page without Slideshow</a></li>
+						</ul>
+					</li>
+					<li><a href="#">What's New</a>
+						<ul>
+							<li><a href="#">Sed felis enim</a></li>
+							<li><a href="#">Morbi</a></li>
+							<li><a href="#">Gravida id</a></li>
+							<li><a href="#">Aliquam</a></li>
+						</ul>
+					</li>
+					<li><a href="#">Latest Version</a></li>
+					<li class="last"><a href="#">Purchase</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="intro">
+		<h1>Powerful <span>Web Design Application</span></h1>
+		<p>Check <strong>Product</strong> drop down menu to see the whole page. I hope you enjoyed this template. Back to Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec est nibh, eget vestibulum orci. Nulla facilisi. Donec et eros tortor, in accumsan felis. Praesent sed nisi at libero facilisis condimentum vitae vel magna.</p>
+		<div id="placemonitor">
+			<div id="placeimages">
+				<img src="images/slide_1.jpg" alt="City" />
+				<img src="images/slide_2.jpg" alt="City" />
+				<img src="images/slide_3.jpg" alt="City" />
+			</div>
+			<div id="monitorlight"></div>
+		</div>
+	</div>
+	<ul id="submenu">
+		<li><a href="#"><span>Download</span></a>
+			<div>
+				<h3><span>My Software</span> Version 1.50</h3>
+				<ul id="listdownload">
+					<li><a href="#">Download for Mac OS X</a></li>
+					<li><a href="#">Download for Vista</a></li>
+					<li class="last"><a href="#">Download for XP</a></li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="#"><span>Trial Version</span></a>
+			<div>
+				<h3><span>My Software</span> Trial Version</h3>
+				<ul id="listtrial">
+					<li><strong>Version:</strong> <span>1.50</span></li>
+					<li><strong>File size:</strong> <span>6.72 MB</span></li>
+				</ul>
+				<a href="#">Try MySoftware Today</a>
+			</div>
+		</li>
+		<li><a href="#"><span>History</span></a>
+			<div>
+				<ul id="listhistory">
+					<li><strong>01/01/09</strong> <span>V1.50</span></li>
+					<li><strong>11/01/09</strong> <span>V1.70</span></li>
+					<li><strong>22/03/09</strong> <span>V2.00</span></li>
+					<li class="last"><a href="#">View more History</a></li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="#"><span>Purchase</span></a>
+			<div>
+				<h3><span>Purchase My Software</span></h3>
+				<h4 class="price">$69.49</h4>
+				<a href="#" class="linkbuynow">Buy Now &#187;</a>
+			</div>
+		</li>
+	</ul>
+	<div id="content">
+		<div id="maincontent">
+			<h1 class="titlemain">Screenshot</h1>
+			<div class="innercontent">
+				<h2>User Interface Screenshot</h2>
+				<ul class="listscr">
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big2.jpg" class="popup"><img src="images/thumb_2.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big2.jpg" class="popup"><img src="images/thumb_2.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big2.jpg" class="popup"><img src="images/thumb_2.jpg" alt="Screenshot" /></a></li>
+				</ul>
+				<div class="clear"></div>
+				<h2>Text Editor Screenshot</h2>
+				<ul class="listscr">
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big2.jpg" class="popup"><img src="images/thumb_2.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big2.jpg" class="popup"><img src="images/thumb_2.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+				</ul>
+				<div class="clear"></div>
+				<h2>WYSIWYG</h2>
+				<ul class="listscr">
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big2.jpg" class="popup"><img src="images/thumb_2.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big2.jpg" class="popup"><img src="images/thumb_2.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big2.jpg" class="popup"><img src="images/thumb_2.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big2.jpg" class="popup"><img src="images/thumb_2.jpg" alt="Screenshot" /></a></li>
+					<li><a href="images/scr_big1.jpg" class="popup"><img src="images/thumb_1.jpg" alt="Screenshot" /></a></li>
+				</ul>
+				<div class="clear"></div>
+			</div>
+			<div class="innercontentbottom"></div>
+		</div>
+		<div id="nav">
+			<div class="placebanner">
+				<a href="#"><img src="images/banner.jpg" alt="Promo" /></a>
+			</div>
+			<h3>Latest News</h3>
+			<div class="boxnav">
+				<ul class="listnav">
+					<li><a href="#">Lorem ipsum dolor sit amet</a></li>
+					<li><a href="#">Cras sollicitudin dictum facilisis</a></li>
+					<li><a href="#">Cras eget nulla libero</a></li>
+					<li><a href="#">Nunc fermentum sollicitudin urna, sed iaculis neque fermentum nec</a></li>
+					<li class="last"><a href="#">Praesent pharetra placerat ligula</a></li>
+				</ul>
+			</div>
+			<h3>Testimonial</h3>
+			<div class="boxnav">
+				<p class="textquote">&quot;Aenean condimentum, lorem ullamcorper lacinia gravida, velit sem volutpat magna, id auctor diam ipsum non mauris. In volutpat sodales enim vel vulputate. Nulla tempus porttitor ligula sit amet venenatis.&quot;</p>
+				<p class="textname"><strong>John Doe</strong> - <a href="#">Company Name</a></p>
+			</div>
+			<h3>Get in Touch</h3>
+			<div class="boxnav">
+				<ul class="listnav">
+					<li><a href="#" class="linkmail">Send us Message</a></li>
+					<li><a href="#" class="linksupport">Live Support</a></li>
+					<li><a href="#" class="linkphone">Contact Us by Phone</a></li>
+					<li class="last"><a href="#" class="linkfaq">Help &amp; FAQ</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div id="footer">
+		<div id="footerleft">
+			<p>Copyright &copy; 2009 Mysoftware, All rights Reserved  |  <a href="#">Privacy Policy</a><br />
+			MySoftware Company - Country - State ZIP - City - Phone. +62 343 43436</p>
+		</div>
+		<ul id="menufooter">
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Download</a></li>
+			<li><a href="#">Support</a></li>
+			<li><a href="#">News</a></li>
+			<li class="last"><a href="#">About Us</a></li>
+		</ul>
+	</div>
+</div>
+</body>
+</html>
