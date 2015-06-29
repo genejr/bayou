@@ -459,7 +459,7 @@
 				ul.menu li:first-child
 				{
 					border-left: 0;
-					margin-left: 0;
+					margin-left: -152px;
 					padding-left: 0;
 					color: #000;
 				}
