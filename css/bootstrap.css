@@ -346,6 +346,7 @@ img {
   display: block;
   height: auto;
   max-width: 100%;
+  vertical-align: middle;
 }
 
 .img-rounded {
@@ -781,7 +782,7 @@ pre code {
 }
 
 .container {
-    padding-right: 15px;
+  padding-right: 15px;
   padding-left: 15px;
   margin-right: 39px;
   margin-left: auto;

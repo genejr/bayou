@@ -733,7 +733,7 @@
 	#main-wrapper
 	{
 		
-		box-shadow: 0px 3px 0px 0px rgba(0,0,0,0.05);
+		
 	}
 	
 	#footer-wrapper
@@ -758,6 +758,7 @@
     border:0;
     width : 462px;
     height : 124px;
+    position: relative;
     background : url(../images/new_logo.png) no-repeat 0 0;
     }
 		#logo span
@@ -781,6 +782,7 @@
 	#footer
 	{
 		margin-top: 0;
+
 	}
 	
 		#footer a {
