@@ -1,0 +1,485 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>BMD - Meet Our Team</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+			<link rel="stylesheet" href="css/style-contact.css" />
+             <link href="css/bootstrap.css" rel="stylesheet" />
+              <link href="css/rotating-card.css" rel="stylesheet" />
+              <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body class="homepage">
+
+		<!-- Header -->
+			<div id="header-wrapper">
+				<header id="header" class="container">
+
+					<!-- Logo -->
+						<div id="logo">
+							<h1><a href="index.html"></a></h1>
+
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li class="current"><a href="index.html">Home</a></li>
+								<li>
+									<li><a href="#">About BMD</a>
+									<ul>
+										<li><a href="about-us.html">About Us</a></li>
+                                        <li><a href="meet-our-team.html">Meet Our Team</a></li>
+                                        <li><a href="faq.html">FAQ</a></li>
+                                        </ul>
+								</li>
+								<li><a href="coming-soon.html">Markets</a>
+						<ul>
+							<li><a href="law-enforcement.html">Law Enforcement</a></li>
+							<li><a href="coming-soon.html">Casino Gaming</a></li>
+							<li><a href="coming-soon.html">Campus Police</a></li>
+							<li><a href="coming-soon.html">Government Agencies</a></li>
+                        </ul>
+					</li>
+								 <li><a href="#">Products</a>
+                        <ul>
+                            <li><a href="inservice.html">!nService™ RMS</a></li>
+                            <li><a href="coming-soon.html">Incident/Arrest</a></li>
+                            <li><a href="coming-soon.html">Case Management</a></li>
+                            <li><a href="coming-soon.html">Intelligence</a></li>
+                            <li><a href="coming-soon.html">UCR/NIBRS</a></li>
+                            <li><a href="coming-soon.html">More...</a></li>
+                        </ul>
+                    </li>
+                                <li><a href="http://blog.bayou.net/">Blog</a></li>
+
+								<li><a href="contact-us.html">Contact Us</a></li>
+						</nav>
+
+				</header>
+			</div>
+
+
+ <!---------------------------------------------------Rotating Cards----------------------------------------------------------->
+
+ <div class="container">
+    <div class="row">
+        <h1 class="title">
+            Our Core Team
+            <!--Bayou Media Development, LLC-->
+            <br>
+            <small>Meet our talented and creative group.</small>
+        </h1>
+        <div class="col-sm-10 col-sm-offset-1">
+         <div class="col-md-4 col-sm-6">
+             <div class="card-container">
+                <div class="card">
+                    <div class="front">
+                        <div class="cover">
+                            <img src="images/rotating_card_thumb.png"/>
+                        </div>
+                        <div class="user">
+                           <img class="img-circle" src="images/gene.png"/>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                <h3 class="name">Gene Billingsley Jr.</h3>
+                                <p class="profession">President</p>
+                                <h5><i class="fa fa-map-marker fa-fw text-muted"></i> Covington,La</h5>
+                                <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
+                                <h5><i class="fa fa-envelope-o fa-fw text-muted"></i> gbillingsley@bayou.net</h5>
+                            </div>
+                            <div class="footer">
+                            </div>
+                        </div>
+                    </div> <!-- end front panel -->
+                    <div class="back">
+                        <div class="header">
+                            <h5 class="motto">"Involve people, delegate tasks, educate users and ensure results."</h5>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                <h4 class="text-center">Experience</h4>
+                                <p>Systems/software integration and development. Founded Bayou Media in 1999. Founded the software development firm in 2012.</p>
+                                <h4 class="text-center">Areas of Expertise</h4>
+                                <p>Business Development, Project Management, Jr. Developer.</p>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="social-links text-center">
+                                <a href="http://www.linkedin.com/in/gbillingsleyjr" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-fw"></i></a>
+                                <!--<a href="http://cretive-tim.com" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
+                                <a href="http://twitter.com/gbillingsleyjr" target="_blank" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>
+                                <a href="mailto:gbillingsley@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+
+                            </div>
+                        </div>
+                    </div> <!-- end back panel -->
+                </div> <!-- end card -->
+            </div> <!-- end card-container -->
+        </div> <!-- end col sm 3 -->
+<!--         <div class="col-sm-1"></div> -->
+        <div class="col-md-4 col-sm-6">
+             <div class="card-container">
+                <div class="card">
+                    <div class="front">
+                        <div class="cover">
+                            <img src="images/rotating_card_thumb.png"/>
+                        </div>
+                        <div class="user">
+                            <img class="img-circle" src="images/daniel_morrigan_profile.png"/>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                <h3 class="name">D. Allan Morrigan</h3>
+                                <p class="profession">Sr Developer</p>
+                                <h5><i class="fa fa-map-marker fa-fw text-muted"></i>Arizona</h5>
+                                <h5><i class="fa fa-building-o fa-fw text-muted"></i>Bayou Media Development, LLC </h5>
+                                <h5><i class="fa fa-envelope-o fa-fw text-muted"></i> <a href="mailto:dmorrigan@bayou.net">dmorrigan@bayou.net</a></h5>
+                            </div>
+                            <div class="footer">
+
+                            </div>
+                        </div>
+                    </div> <!-- end front panel -->
+                    <div class="back">
+                        <div class="header">
+                            <h5 class="motto">"I make your dreams come true!"</h5>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                <h4 class="text-center">Experience</h4>
+                                <p>Self-taught Full-Stack Web Developer with over 20 years of experience</p>
+                                <h4 class="text-center">Areas of Expertise</h4>
+                                <p>Javascript, Jquery, Coffeescript and many others </p>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="social-links text-center">
+                                <!--<a href="http://cretive-tim.com" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>-->
+                                <!--<a href="http://cretive-tim.com" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
+                                <!--<a href="http://cretive-tim.com" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
+                                <a href="mailto:dmorrigan@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+                            </div>
+                        </div>
+                    </div> <!-- end back panel -->
+                </div> <!-- end card -->
+            </div> <!-- end card-container -->
+        </div> <!-- end col sm 3 -->
+<!--         <div class="col-sm-1"></div> -->
+        <div class="col-md-4 col-sm-6">
+            <div class="card-container">
+                <div class="card">
+                    <div class="front">
+                        <div class="cover">
+                            <img src="images/rotating_card_thumb3.png"/>
+                        </div>
+                        <div class="user">
+                            <img class="img-circle" src="images/barry-marshall.png"/>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                <h3 class="name">Barry Marshall</h3>
+                                <p class="profession">Sr Developer</p>
+                                <h5><i class="fa fa-map-marker fa-fw text-muted"></i>Millington, Tennessee</h5>
+                                <h5><i class="fa fa-building-o fa-fw text-muted"></i>Bayou Media Development, LLC</h5>
+                                <h5><i class="fa fa-envelope-o fa-fw text-muted"></i> <a href="mailto:bmarshall@bayou.net">bmarshall@bayou.net</a></h5>
+                            </div>
+                            <div class="footer">
+                            </div>
+                        </div>
+                    </div> <!-- end front panel -->
+                    <div class="back">
+                        <div class="header">
+                            <h5 class="motto">"A word, after a word, after a word is power."</h5>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                <h4 class="text-center">Experience</h4>
+                                <p>Working on his Astronaut License</p>
+                                <h4 class="text-center">Areas of Expertise</h4>
+                                <p>SEO, Javascript, HTML5, CSS3 and many others...</p>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="social-links text-center">
+                                <!--<a href="http://cretive-tim.com" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>-->
+                                <!--<a href="http://cretive-tim.com" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
+                                <!--<a href="http://cretive-tim.com" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
+                                <a href="mailto:bmarshall@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+                            </div>
+                        </div>
+                    </div> <!-- end back panel -->
+                </div> <!-- end card -->
+            </div> <!-- end card-container -->
+        </div> <!-- end col-sm-3 -->
+        </div> <!-- end col-sm-10 -->
+    </div> <!-- end row -->
+    <div class="space-200"></div>
+</div>
+<div class="white-board">
+   <div class="container">
+<!---------------------------------Second Row Of Rotaiting cards-------------------------------------------------------->
+        <div class="col-sm-10 col-sm-offset-1">
+         <div class="col-md-4 col-sm-6">
+             <div class="card-container">
+                <div class="card">
+                    <div class="front">
+                        <div class="cover">
+                            <img src="images/rotating_card_thumb2.png"/>
+                        </div>
+                        <div class="user">
+                            <img class="img-circle" src="images/job-roberts.png"/>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                <h3 class="name">Job Roberts</h3>
+                                <p class="profession">UI and Graphics Design</p>
+                                <h5><i class="fa fa-map-marker fa-fw text-muted"></i> Covington, LA</h5>
+                                <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
+                                <h5><i class="fa fa-envelope-o fa-fw text-muted"></i> <a href="mailto:jroberts@bayou.net">jroberts@bayou.net</a></h5>
+                            </div>
+                            <div class="footer">
+                            </div>
+                        </div>
+                    </div> <!-- end front panel -->
+                    <div class="back">
+                        <div class="header">
+                            <h5 class="motto">"What I don't know, I can learn."</h5>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                <h4 class="text-center">Experience</h4>
+                                <p>Job is a graphic designer, mastering in Web Design and Development</p>
+                                <h4 class="text-center">Areas of Expertise</h4>
+                                <p>Web Design, Adobe Photoshop, HTML5, CSS3 and many others...</p>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="social-links text-center">
+                                <a href="https://www.facebook.com/JobRobertsPhoto?fref=ts" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>
+                                <!--<a href="http://cretive-tim.com" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
+                                <!--<a href="http://cretive-tim.com" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
+                                <a href="https://www.linkedin.com/profile/view?id=361618151" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-fw"></i></a>
+                                <a href="mailto:jroberts@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+                            </div>
+                        </div>
+                    </div> <!-- end back panel -->
+                </div> <!-- end card -->
+            </div> <!-- end card-container -->
+        </div> <!-- end col sm 3 -->
+<!--         <div class="col-sm-1"></div> -->
+        <div class="col-md-4 col-sm-6">
+             <div class="card-container">
+                <div class="card">
+                    <div class="front">
+                        <div class="cover">
+                            <img src="images/rotating_card_thumb.png"/>
+                        </div>
+                        <div class="user">
+                            <img class="img-circle" src="images/mary_doucet_profile.png"/>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                    <h3 class="name">Mary Doucet</h3>
+                                    <p class="profession">Intern Software Developer</p>
+                                    <h5><i class="fa fa-map-marker fa-fw text-muted"></i> Slidell, LA</h5>
+                                    <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
+                                    <h5><i class="fa fa-envelope-o fa-fw text-muted"></i><a href="mailto:mdoucet@bayou.net">mdoucet@bayou.net</a></h5>
+                            </div>
+                            <div class="footer">
+                            </div>
+                        </div>
+                    </div> <!-- end front panel -->
+                    <div class="back">
+                        <div class="header">
+                            <h5 class="motto">Be to be free.</h5>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                                <h4 class="text-center">Experience</h4>
+                                <p>Mary joined the team this year and has been working on her internship with Bayou Media Company. She contributes as the Social Media Manager, as well as creates content for our site and blog.</p>
+                                <h4 class="text-center">Areas of Expertise</h4>
+                                <p>Web Design, HTML5, CSS3, Polymer and many others...</p>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <button class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)">
+                                <i class="fa fa-reply"></i>
+                            </button>
+                            <div class="social-links text-center">
+                                <a href="https://www.facebook.com/chrismawson.mjdoucet" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>
+                                <a href="https://www.linkedin.com/in/mdoucet1" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-fw"></i></a>
+                                <a href="https://twitter.com/LionessNola" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>
+                                <a href="mailto:mdoucet@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+                            </div>
+                        </div>
+                    </div> <!-- end back panel -->
+                </div> <!-- end card -->
+            </div> <!-- end card-container -->
+        </div> <!-- end col sm 3 -->
+<!--         <div class="col-sm-1"></div> -->
+        <div class="col-md-4 col-sm-6">
+            <div class="card-container">
+                <div class="card">
+                    <div class="front">
+                        <div class="cover">
+                            <img src="images/rotating_card_thumb3.png"/>
+                        </div>
+                        <div class="user">
+                            <img class="img-circle" src="images/b-perez.png"/>
+                        </div>
+                        <div class="content">
+                            <div class="main">
+                        <h3 class="name">Brandon Perez</h3>
+                        <p class="profession">Developer</p>
+                        <h5><i class="fa fa-map-marker fa-fw text-muted"></i>Slidell, LA</h5>
+                        <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
+                        <h5><i class="fa fa-envelope-o fa-fw text-muted"></i><a href="mailto:bperez@bayou.net">bperez@bayou.net</a></h5>
+                            </div>
+                            <div class="footer">
+                            </div>
+                        </div>
+                    </div> <!-- end front panel -->
+                    <div class="back">
+                        <div class="header">
+                        <h5 class="motto">"Work Hard, Play Hard."</h5>
+                            </div>
+                            <div class="content">
+                            <div class="main">
+                            <h4 class="text-center">Experience</h4>
+                            <p>Jr Nationals Software Competition, 7th place in Mobile Technology 2004</p>
+                            <h4 class="text-center">Areas of Expertise</h4>
+                            <p>Cloud Computing, Google App Engine, SEO and more..</p>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="social-links text-center">
+                                <!--<a href="http://cretive-tim.com" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>-->
+                                <!--<a href="http://cretive-tim.com" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
+                                <!--<a href="http://cretive-tim.com" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
+                                <a href="mailto:bperez@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+                            </div>
+                        </div>
+                    </div> <!-- end back panel -->
+                </div> <!-- end card -->
+            </div> <!-- end card-container -->
+        </div> <!-- end col-sm-3 -->
+        </div> <!-- end col-sm-10 -->
+				<!--------------------------------- Third Row Of Rotating cards-------------------------------------------------------->
+				        <div class="col-sm-10 col-sm-offset-1">
+				         <div class="col-md-4 col-sm-6">
+				             <div class="card-container">
+				                <div class="card">
+				                    <div class="front">
+				                        <div class="cover">
+				                            <img src="images/rotating_card_thumb2.png"/>
+				                        </div>
+				                        <div class="user">
+				                            <img class="img-circle" src="images/christian.jpg"/>
+				                        </div>
+				                        <div class="content">
+				                            <div class="main">
+				                                <h3 class="name">Christian Billingsley</h3>
+				                                <p class="profession">QA and Intern Developer</p>
+				                                <h5><i class="fa fa-map-marker fa-fw text-muted"></i> Covington, LA</h5>
+				                                <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
+				                                <h5><i class="fa fa-envelope-o fa-fw text-muted"></i> <a href="mailto:cbillingsley@bayou.net">cbillingsley@bayou.net</a></h5>
+				                            </div>
+				                            <div class="footer">
+				                            </div>
+				                        </div>
+				                    </div> <!-- end front panel -->
+				                    <div class="back">
+				                        <div class="header">
+				                            <h5 class="motto">"Go big or go home."</h5>
+				                        </div>
+				                        <div class="content">
+				                            <div class="main">
+				                                <h4 class="text-center">Experience</h4>
+				                                <p>Christian contributes his knowledge to student classes and self study over the last 3 years. He is an avid gamer. Christian runs our QA for testing as he furhter develops his skills.</p>
+				                                <h4 class="text-center">Areas of Expertise</h4>
+				                                <p>HTML5, CSS, Javascript, League.</p>
+				                            </div>
+				                        </div>
+				                        <div class="footer">
+				                            <div class="social-links text-center">
+				                                <a href="https://www.facebook.com/christian.a.billingsley" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>
+				                                <!--<a href="" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
+				                                <!--<a href="" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
+                                                <a href="mailto:cbillingsley@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+				                            </div>
+				                        </div>
+				                    </div> <!-- end back panel -->
+				                </div> <!-- end card -->
+				            </div> <!-- end card-container -->
+				        </div> <!-- end col sm 3 -->
+				<!--         <div class="col-sm-1"></div> -->
+						<!-- ADD CARD 2 HERE -->
+				<!--         <div class="col-sm-1"></div> -->
+						<!-- ADD CARD 3 HERE -->
+				        </div> <!-- end col-sm-10 -->
+
+    </div> <!-- end row -->
+    <div class="space-200"></div>
+</div>
+</div>
+</div>
+<div class="container">
+</div> <!-- end col col -->
+</div>
+<!-----------------------------------End Rotaiting Cards-------------------------------------------------->
+
+
+<script src="js/jquery-1.10.2.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $().ready(function(){
+        $('[rel="tooltip"]').tooltip();
+
+    });
+
+    function rotateCard(btn){
+        var $card = $(btn).closest('.card-container');
+        console.log($card);
+        if($card.hasClass('hover')){
+            $card.removeClass('hover');
+        } else {
+            $card.addClass('hover');
+        }
+    }
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-46172202-4', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+<!--------------------------------Footer-------------------------------------------------------->
+
+
+           <!-- Footer -->
+<!--#include virtual="footer.html" -->
+	</body>
+</html>

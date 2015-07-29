@@ -1,0 +1,132 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>About Us</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+		<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+			<link rel="stylesheet" href="css/style-contact.css" />
+			 <link href='css/bootstrap.css' rel='stylesheet' />
+             <link href='css/rotating-card.css' rel='stylesheet' />
+    
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body class="left-sidebar">
+
+		<!-- Header -->
+			<div id="header-wrapper">
+				<header id="header" class="container">
+				
+					<!-- Logo -->
+						<div id="logo">
+							<h1><a href="index.html"></a></h1>
+							
+						</div>
+					
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li class="current"><a href="index.html">Home</a></li>
+								<li>
+									<li><a href="#">About BMD</a>
+									<ul>
+										<li><a href="about-us.html">About Us</a></li>
+                                        <li><a href="meet-our-team.html">Meet Our Team</a></li>
+                                        <li><a href="faq.html">FAQ</a></li>
+                                        </ul>
+								</li>
+								<li><a href="coming-soon.html">Markets</a>
+						<ul>
+							<li><a href="law-enforcement.html">Law Enforcement</a></li>
+							<li><a href="coming-soon.html">Casino Gaming</a></li>
+							<li><a href="coming-soon.html">Campus Police</a></li>
+							<li><a href="coming-soon.html">Government Agencies</a></li>
+                        </ul>
+					</li>
+								 <li><a href="#">Products</a>
+                        <ul>
+                            <li><a href="inservice.html">!nService™ RMS</a></li>
+                            <li><a href="coming-soon.html">Incident/Arrest</a></li>
+                            <li><a href="coming-soon.html">Case Management</a></li>
+                            <li><a href="coming-soon.html">Intelligence</a></li>
+                            <li><a href="coming-soon.html">UCR/NIBRS</a></li>
+                            <li><a href="coming-soon.html">More...</a></li>
+                        </ul>
+                    </li>
+                                <li><a href="http://blog.bayou.net/">Blog</a></li>
+                                
+								<li><a href="contact-us.html">Contact Us</a></li>
+						</nav>
+					
+				</header>
+			</div>
+		
+		<!-- Main -->
+			<div id="main-wrapper">
+				<div class="container">
+					<div class="row 200%">
+						<div class="4u">
+							<div id="sidebar">
+						
+								<!-- Sidebar -->
+									<section>
+										<h3>Caring is the most powerful marketing strategy there is.</h3>
+										<p>We truly, deeply care about our customers and our larger audience. That’s why we strive to deliver 10x the value in everything we do.</p>
+										
+											<a href="http://blog.bayou.net" class="button icon fa-info-circle">Find out more</a>
+										        </section>
+									
+
+								         	<section>
+										<h3>How can we help?</h3>
+									        <a href="law-enforcement.html">We strive for Law Enforcement.</a>
+										<a><img src="images/two-cops.png"/></a>
+										</section>								
+									
+									
+						
+							</div>
+						</div>
+						<div class="8u important(collapse)">
+							<div id="content">
+
+								<!-- Content -->
+									<article>
+
+										<h2>About Us</h2>
+
+										<p>Bayou Media Development is the leader in digital solutions for task force web applications in the greater New Orleans area. Our tools and services allow your employees to deploy time sensitive information faster and more effectively than ever. Achieve greater business success with our help. Our applications manage, measure and monetize your content across every channel and screen.</p>
+
+										<h3>About Our Product</h3>
+
+										<p>!nService Law Enforcement Records Management System is a platform of modules specialized to provide mission-critical point of use technology service across all functions of law enforcement. 
+										Each module is designed to maximize efficiency, reduce training requirements, optimize personnel resources and eliminate data entry error whether 
+										in the patrol vehicle, detective bureau, dispatch center, criminal records department, evidence room and more.
+										</p>
+										
+										
+
+									</article>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer -->
+<!--#include virtual="footer.html" -->
+
+	</body>
+</html>
