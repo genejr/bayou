@@ -27,52 +27,8 @@
 	<body class="no-sidebar">
 
 		<!-- Header -->
-			<div id="header-wrapper">
-				<header id="header" class="container">
-				
-					<!-- Logo -->
-						<div id="logo">
-							<h1><a href="index.html"></a></h1>
-							
-						</div>
-					
-					<!-- Nav -->
-						<nav id="nav">
-							<ul>
-								<li class="current"><a href="index.html">Home</a></li>
-								<li>
-									<li><a href="#">About BMD</a>
-									<ul>
-										<li><a href="about-us.html">About Us</a></li>
-                                        <li><a href="meet-our-team.html">Meet Our Team</a></li>
-                                        <li><a href="faq.html">FAQ</a></li>
-                                        </ul>
-								</li>
-								<li><a href="coming-soon.html">Markets</a>
-						<ul>
-							<li><a href="law-enforcement.html">Law Enforcement</a></li>
-							<li><a href="coming-soon.html">Casino Gaming</a></li>
-							<li><a href="coming-soon.html">Campus Police</a></li>
-							<li><a href="coming-soon.html">Government Agencies</a></li>
-                        </ul>
-					</li>
-								 <li><a href="#">Products</a>
-                        <ul>
-                            <li><a href="inservice.html">!nService™ RMS</a></li>
-                            <li><a href="coming-soon.html">Incident/Arrest</a></li>
-                            <li><a href="coming-soon.html">Case Management</a></li>
-                            <li><a href="coming-soon.html">Intelligence</a></li>
-                            <li><a href="coming-soon.html">UCR/NIBRS</a></li>
-                            <li><a href="coming-soon.html">More...</a></li>
-                        </ul>
-                    </li>
-                                <li><a href="http://blog.bayou.net/">Blog</a></li>
-                                
-								<li><a href="contact-us.html">Contact Us</a></li>
-						</nav>
-					
-				</header>
-			</div>
+<!--#include virtual="header.html" -->
+		<!-- End Header -->	
 		
 		<!-- Main -->
 			<div id="main-wrapper">
