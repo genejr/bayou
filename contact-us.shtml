@@ -17,6 +17,7 @@
             <link rel="stylesheet" href="css/style.css" />
             <link rel="stylesheet" href="css/style-desktop.css" />
             <link rel="stylesheet" href="css/style-contact.css" />
+            <link href="style.css" rel="stylesheet" type="text/css" media="screen"/>
         </noscript>
         <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
     </head>
@@ -29,14 +30,23 @@
         <!-- Main -->
             <div id="main-wrapper">
                 <div class="container">
-                    <div id="content">
+                    <h1>Have a question? Send us an Email! </h1>
 
-                        <!-- Content -->
-                            <article>
-                                
-                            </article>
+                    <form action="#" method="post">
+                        <fieldset>
+                            <label for="name">Name:</label>
+                            <input type="text" id="name" placeholder="Enter your name here.">
 
-                    </div>
+                            <label for="email">Email:</label>
+                            <input type="email" id="email" placeholder="Enter your email here.">
+
+                            <label for="message">Message:</label>
+                            <textarea id="message" placeholder="Leave us a message!"></textarea>
+
+                            <input type="submit" value="Send message"/>
+
+                        </fieldset> 
+                    </form> 
                 </div>
             </div>
 
