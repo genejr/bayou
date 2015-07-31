@@ -85,8 +85,8 @@
 						</div>
 						<div class="5u">
 							<ul>
-								<li><a href="system-req.html" class="button big icon fa-arrow-circle-right">System Requirements</a></li>
-								<li><a href="about-us.html" class="button alt big icon fa-question-circle">More info</a></li>
+								<li><a href="system-req.shtml" class="button big icon fa-arrow-circle-right">System Requirements</a></li>
+								<li><a href="about-us.shtml" class="button alt big icon fa-question-circle">More info</a></li>
 							</ul>
 						</div>
 					</div>
