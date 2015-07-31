@@ -29,7 +29,11 @@
         
         <!-- Main -->
             <div id="main-wrapper">
+<<<<<<< HEAD
                 <div class="containerform">
+=======
+                <div class="container">
+>>>>>>> master
                     <h1>Have a question? Send us an Email! </h1>
 
                     <form action="#" method="post">
@@ -41,9 +45,15 @@
                             <input type="email" id="email" placeholder="Enter your email here.">
 
                             <label for="message">Message:</label>
+<<<<<<< HEAD
                             <textarea class="pre-scrollable" id="message" placeholder="Leave us a message!"></textarea>
 
                             <input href="mailto:gbillingsley@bayou.net" type="submit" value="Send message"/>
+=======
+                            <textarea id="message" placeholder="Leave us a message!"></textarea>
+
+                            <input type="submit" value="Send message"/>
+>>>>>>> master
 
                         </fieldset> 
                     </form> 
