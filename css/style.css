@@ -163,6 +163,11 @@
 
 		form
 		{
+		  width: 300px;
+		  height: 500px;
+		  padding-right: 15px;
+		  padding-left: 15px;
+		  float: left;
 		}
 		
 			form label
@@ -170,7 +175,7 @@
 				display: block;
 				font-weight: 800;
 				margin: 0 0 1em 0;
-				font-size: 0.8em;
+				font-size: 1em;
 				color: #444;
 			}
 		
@@ -733,7 +738,7 @@
 	#main-wrapper
 	{
 		
-	
+
 	}
 	
 	#footer-wrapper
@@ -758,6 +763,7 @@
     border:0;
     width : 462px;
     height : 124px;
+    position: relative;
     background : url(../images/new_logo.png) no-repeat 0 0;
     }
 		#logo span
@@ -781,6 +787,7 @@
 	#footer
 	{
 		margin-top: 0;
+
 	}
 	
 		#footer a {
