@@ -70,5 +70,6 @@
 
         <!-- Footer -->
 <!--#include virtual="footer.html" -->
+        <!-- End Footer -->
     </body>
 </html>
