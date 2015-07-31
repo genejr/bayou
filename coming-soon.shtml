@@ -27,9 +27,15 @@
 	<body class="no-sidebar">
 
 		<!-- Header -->
+<<<<<<< HEAD
 <!--#include virtual="header.html" -->
 		<!-- End Header -->	
 		
+=======
+		<!--#include virtual="header.html" -->
+		<!-- End Header -->
+
+>>>>>>> 53525387af695e7486088082df38dcb0cc6931c7
 		<!-- Main -->
 			<div id="main-wrapper">
 				<div class="container">
