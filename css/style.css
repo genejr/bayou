@@ -116,7 +116,7 @@
 	
 	p, ul, ol, dl, table
 	{
-		margin-bottom: 2em;
+		/* margin-bottom: 2em; */
 	}
 	
 	/* Section/Article */
@@ -294,6 +294,7 @@
 				table.default tbody
 				{
 				}
+
 
 	/* Image */
 
