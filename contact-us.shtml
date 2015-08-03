@@ -22,12 +22,13 @@
             <link href="style.css" rel="stylesheet" type="text/css" media="screen"/>
         </noscript>
         <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-        <!-- Header -->
-        <!--#include virtual="header.html" -->
-        <!-- End Header -->
+
 
     </head>
     <body class="no-sidebar">
+    <!-- Header -->
+    <!--#include virtual="header.html" -->
+    <!-- End Header -->
         <!-- Main -->
             <div id="main-wrapper">
                 <div class="containerform">
