@@ -788,6 +788,16 @@ pre code {
   margin-left: auto;
 
 }
+.containerform {
+  width: 300px;
+  height: 500px;
+  padding-right: 15px;
+  padding-left: 15px;
+  float: left;
+
+
+}
+
 
 .container:before,
 .container:after {
