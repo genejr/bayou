@@ -797,7 +797,15 @@ pre code {
 
 
 }
+.containermap {
+  width: 300px;
+  height: 500px;
+  padding-right: 15px;
+  padding-left: 15px;
+  float: right;
 
+
+}
 
 .container:before,
 .container:after {

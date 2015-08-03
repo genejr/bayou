@@ -129,7 +129,7 @@ CSS Added by Bayou peeps after the template
 	
 	p, ul, ol, dl, table
 	{
-		margin-bottom: 2em;
+		/* margin-bottom: 2em; */
 	}
 	
 	/* Section/Article */
@@ -307,6 +307,7 @@ CSS Added by Bayou peeps after the template
 				table.default tbody
 				{
 				}
+
 
 	/* Image */
 
