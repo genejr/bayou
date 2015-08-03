@@ -192,204 +192,158 @@
    <div class="container">
 <!---------------------------------Second Row Of Rotaiting cards-------------------------------------------------------->
         <div class="col-sm-10 col-sm-offset-1">
-         <div class="col-md-4 col-sm-6">
-             <div class="card-container">
-                <div class="card">
-                    <div class="front">
-                        <div class="cover">
-                            <img src="images/rotating_card_thumb2.png"/>
-                        </div>
-                        <div class="user">
-                            <img class="img-circle" src="images/job-roberts.png"/>
-                        </div>
-                        <div class="content">
-                            <div class="main">
-                                <h3 class="name">Job Roberts</h3>
-                                <p class="profession">UI and Graphics Design</p>
-                                <h5><i class="fa fa-map-marker fa-fw text-muted"></i> Covington, LA</h5>
-                                <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
-                                <h5><i class="fa fa-envelope-o fa-fw text-muted"></i> <a href="mailto:jroberts@bayou.net">jroberts@bayou.net</a></h5>
+            <div class="col-md-4 col-sm-6">
+                <div class="card-container">
+                    <div class="card">
+                        <div class="front">
+                            <div class="cover">
+                                <img src="images/rotating_card_thumb.png"/>
                             </div>
-                            <div class="footer">
+                            <div class="user">
+                                <img class="img-circle" src="images/mary_doucet_profile.png"/>
                             </div>
-                        </div>
-                    </div> <!-- end front panel -->
-                    <div class="back">
-                        <div class="header">
-                            <h5 class="motto">"What I don't know, I can learn."</h5>
-                        </div>
-                        <div class="content">
-                            <div class="main">
-                                <h4 class="text-center">Experience</h4>
-                                <p>Job is a graphic designer, mastering in Web Design and Development</p>
-                                <h4 class="text-center">Areas of Expertise</h4>
-                                <p>Web Design, Adobe Photoshop, HTML5, CSS3 and many others...</p>
-                            </div>
-                        </div>
-                        <div class="footer">
-                            <div class="social-links text-center">
-                                <a href="https://www.facebook.com/JobRobertsPhoto?fref=ts" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>
-                                <!--<a href="http://cretive-tim.com" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
-                                <!--<a href="http://cretive-tim.com" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
-                                <a href="https://www.linkedin.com/profile/view?id=361618151" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-fw"></i></a>
-                                <a href="mailto:jroberts@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
-                            </div>
-                        </div>
-                    </div> <!-- end back panel -->
-                </div> <!-- end card -->
-            </div> <!-- end card-container -->
-        </div> <!-- end col sm 3 -->
-<!--         <div class="col-sm-1"></div> -->
-        <div class="col-md-4 col-sm-6">
-             <div class="card-container">
-                <div class="card">
-                    <div class="front">
-                        <div class="cover">
-                            <img src="images/rotating_card_thumb.png"/>
-                        </div>
-                        <div class="user">
-                            <img class="img-circle" src="images/mary_doucet_profile.png"/>
-                        </div>
-                        <div class="content">
-                            <div class="main">
+                            <div class="content">
+                                <div class="main">
                                     <h3 class="name">Mary Doucet</h3>
                                     <p class="profession">Intern Software Developer</p>
                                     <h5><i class="fa fa-map-marker fa-fw text-muted"></i> Slidell, LA</h5>
                                     <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
                                     <h5><i class="fa fa-envelope-o fa-fw text-muted"></i><a href="mailto:mdoucet@bayou.net">mdoucet@bayou.net</a></h5>
+                                </div>
+                                <div class="footer">
+                                </div>
                             </div>
-                            <div class="footer">
-                            </div>
-                        </div>
-                    </div> <!-- end front panel -->
-                    <div class="back">
-                        <div class="header">
-                            <h5 class="motto">Be to be free.</h5>
-                        </div>
-                        <div class="content">
-                            <div class="main">
-                                <h4 class="text-center">Experience</h4>
-                                <p>Mary joined the team this year and has been working on her internship with Bayou Media Company. She contributes as the Social Media Manager, as well as creates content for our site and blog.</p>
-                                <h4 class="text-center">Areas of Expertise</h4>
-                                <p>Web Design, HTML5, CSS3, Polymer and many others...</p>
-                            </div>
-                        </div>
-                        <div class="footer">
-                            <button class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)">
-                                <i class="fa fa-reply"></i>
-                            </button>
-                            <div class="social-links text-center">
-                                <a href="https://www.facebook.com/chrismawson.mjdoucet" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>
-                                <a href="https://www.linkedin.com/in/mdoucet1" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-fw"></i></a>
-                                <a href="https://twitter.com/LionessNola" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>
-                                <a href="mailto:mdoucet@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
-                            </div>
-                        </div>
-                    </div> <!-- end back panel -->
-                </div> <!-- end card -->
-            </div> <!-- end card-container -->
-        </div> <!-- end col sm 3 -->
-<!--         <div class="col-sm-1"></div> -->
-        <div class="col-md-4 col-sm-6">
-            <div class="card-container">
-                <div class="card">
-                    <div class="front">
-                        <div class="cover">
-                            <img src="images/rotating_card_thumb3.png"/>
-                        </div>
-                        <div class="user">
-                            <img class="img-circle" src="images/b-perez.png"/>
-                        </div>
-                        <div class="content">
-                            <div class="main">
-                        <h3 class="name">Brandon Perez</h3>
-                        <p class="profession">Developer</p>
-                        <h5><i class="fa fa-map-marker fa-fw text-muted"></i>Slidell, LA</h5>
-                        <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
-                        <h5><i class="fa fa-envelope-o fa-fw text-muted"></i><a href="mailto:bperez@bayou.net">bperez@bayou.net</a></h5>
-                            </div>
-                            <div class="footer">
-                            </div>
-                        </div>
-                    </div> <!-- end front panel -->
-                    <div class="back">
-                        <div class="header">
-                        <h5 class="motto">"Work Hard, Play Hard."</h5>
+                        </div> <!-- end front panel -->
+                        <div class="back">
+                            <div class="header">
+                                <h5 class="motto">Be to be free.</h5>
                             </div>
                             <div class="content">
-                            <div class="main">
-                            <h4 class="text-center">Experience</h4>
-                            <p>Jr Nationals Software Competition, 7th place in Mobile Technology 2004</p>
-                            <h4 class="text-center">Areas of Expertise</h4>
-                            <p>Cloud Computing, Google App Engine, SEO and more..</p>
+                                <div class="main">
+                                    <h4 class="text-center">Experience</h4>
+                                    <p>Mary joined the team this year and has been working on her internship with Bayou Media Company. She contributes as the Social Media Manager, as well as creates content for our site and blog.</p>
+                                    <h4 class="text-center">Areas of Expertise</h4>
+                                    <p>Web Design, HTML5, CSS3, Polymer and many others...</p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="footer">
-                            <div class="social-links text-center">
-                                <!--<a href="http://cretive-tim.com" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>-->
-                                <!--<a href="http://cretive-tim.com" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
-                                <!--<a href="http://cretive-tim.com" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
-                                <a href="mailto:bperez@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+                            <div class="footer">
+                                <button class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)">
+                                    <i class="fa fa-reply"></i>
+                                </button>
+                                <div class="social-links text-center">
+                                    <a href="https://www.facebook.com/chrismawson.mjdoucet" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>
+                                    <a href="https://www.linkedin.com/in/mdoucet1" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-fw"></i></a>
+                                    <a href="https://twitter.com/LionessNola" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>
+                                    <a href="mailto:mdoucet@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+                                </div>
                             </div>
-                        </div>
-                    </div> <!-- end back panel -->
-                </div> <!-- end card -->
-            </div> <!-- end card-container -->
-        </div> <!-- end col-sm-3 -->
+                        </div> <!-- end back panel -->
+                    </div> <!-- end card -->
+                </div> <!-- end card-container -->
+            </div> <!-- end col sm 3 -->
+<!--         <div class="col-sm-1"></div> -->
+            <div class="col-md-4 col-sm-6">
+                <div class="card-container">
+                    <div class="card">
+                        <div class="front">
+                            <div class="cover">
+                                <img src="images/rotating_card_thumb3.png"/>
+                            </div>
+                            <div class="user">
+                                <img class="img-circle" src="images/b-perez.png"/>
+                            </div>
+                            <div class="content">
+                                <div class="main">
+                                    <h3 class="name">Brandon Perez</h3>
+                                    <p class="profession">Developer</p>
+                                    <h5><i class="fa fa-map-marker fa-fw text-muted"></i>Slidell, LA</h5>
+                                    <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
+                                    <h5><i class="fa fa-envelope-o fa-fw text-muted"></i><a href="mailto:bperez@bayou.net">bperez@bayou.net</a></h5>
+                                </div>
+                                <div class="footer">
+                                </div>
+                            </div>
+                        </div> <!-- end front panel -->
+                        <div class="back">
+                            <div class="header">
+                                <h5 class="motto">"Work Hard, Play Hard."</h5>
+                            </div>
+                            <div class="content">
+                                <div class="main">
+                                    <h4 class="text-center">Experience</h4>
+                                    <p>Jr Nationals Software Competition, 7th place in Mobile Technology 2004</p>
+                                    <h4 class="text-center">Areas of Expertise</h4>
+                                    <p>Cloud Computing, Google App Engine, SEO and more..</p>
+                                </div>
+                            </div>
+                            <div class="footer">
+                                <div class="social-links text-center">
+                                    <!--<a href="http://cretive-tim.com" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>-->
+                                    <!--<a href="http://cretive-tim.com" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
+                                    <!--<a href="http://cretive-tim.com" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
+                                    <a href="mailto:bperez@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+                                </div>
+                            </div>
+                        </div> <!-- end back panel -->
+                    </div> <!-- end card -->
+                </div> <!-- end card-container -->
+            </div> <!-- end col-sm-3 -->
+<!--         <div class="col-sm-1"></div> -->
+            <div class="col-md-4 col-sm-6">
+                <div class="card-container">
+                    <div class="card">
+                        <div class="front">
+                            <div class="cover">
+                                <img src="images/rotating_card_thumb2.png"/>
+                            </div>
+                            <div class="user">
+                                <img class="img-circle" src="images/christian.jpg"/>
+                            </div>
+                            <div class="content">
+                                <div class="main">
+                                    <h3 class="name">Christian Billingsley</h3>
+                                    <p class="profession">QA and Intern Developer</p>
+                                    <h5><i class="fa fa-map-marker fa-fw text-muted"></i> Covington, LA</h5>
+                                    <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
+                                    <h5><i class="fa fa-envelope-o fa-fw text-muted"></i> <a href="mailto:cbillingsley@bayou.net">cbillingsley@bayou.net</a></h5>
+                                </div>
+                                <div class="footer">
+                                </div>
+                            </div>
+                        </div> <!-- end front panel -->
+                        <div class="back">
+                            <div class="header">
+                                <h5 class="motto">"Go big or go home."</h5>
+                            </div>
+                            <div class="content">
+                                <div class="main">
+                                    <h4 class="text-center">Experience</h4>
+                                    <p>Christian contributes his knowledge to student classes and self study over the last 3 years. He is an avid gamer. Christian runs our QA for testing as he furhter develops his skills.</p>
+                                    <h4 class="text-center">Areas of Expertise</h4>
+                                    <p>HTML5, CSS, Javascript, League.</p>
+                                </div>
+                            </div>
+                            <div class="footer">
+                                <div class="social-links text-center">
+                                    <a href="https://www.facebook.com/christian.a.billingsley" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>
+                                    <!--<a href="" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
+                                    <!--<a href="" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
+                                    <a href="mailto:cbillingsley@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
+                                </div>
+                            </div>
+                        </div> <!-- end back panel -->
+                    </div> <!-- end card -->
+                </div> <!-- end card-container -->
+            </div> <!-- end col sm 3 -->
         </div> <!-- end col-sm-10 -->
-				<!--------------------------------- Third Row Of Rotating cards-------------------------------------------------------->
-				        <div class="col-sm-10 col-sm-offset-1">
-				         <div class="col-md-4 col-sm-6">
-				             <div class="card-container">
-				                <div class="card">
-				                    <div class="front">
-				                        <div class="cover">
-				                            <img src="images/rotating_card_thumb2.png"/>
-				                        </div>
-				                        <div class="user">
-				                            <img class="img-circle" src="images/christian.jpg"/>
-				                        </div>
-				                        <div class="content">
-				                            <div class="main">
-				                                <h3 class="name">Christian Billingsley</h3>
-				                                <p class="profession">QA and Intern Developer</p>
-				                                <h5><i class="fa fa-map-marker fa-fw text-muted"></i> Covington, LA</h5>
-				                                <h5><i class="fa fa-building-o fa-fw text-muted"></i> Bayou Media Development, LLC </h5>
-				                                <h5><i class="fa fa-envelope-o fa-fw text-muted"></i> <a href="mailto:cbillingsley@bayou.net">cbillingsley@bayou.net</a></h5>
-				                            </div>
-				                            <div class="footer">
-				                            </div>
-				                        </div>
-				                    </div> <!-- end front panel -->
-				                    <div class="back">
-				                        <div class="header">
-				                            <h5 class="motto">"Go big or go home."</h5>
-				                        </div>
-				                        <div class="content">
-				                            <div class="main">
-				                                <h4 class="text-center">Experience</h4>
-				                                <p>Christian contributes his knowledge to student classes and self study over the last 3 years. He is an avid gamer. Christian runs our QA for testing as he furhter develops his skills.</p>
-				                                <h4 class="text-center">Areas of Expertise</h4>
-				                                <p>HTML5, CSS, Javascript, League.</p>
-				                            </div>
-				                        </div>
-				                        <div class="footer">
-				                            <div class="social-links text-center">
-				                                <a href="https://www.facebook.com/christian.a.billingsley" class="facebook"><i class="fa fa-facebook fa-fw"></i></a>
-				                                <!--<a href="" class="google"><i class="fa fa-google-plus fa-fw"></i></a>-->
-				                                <!--<a href="" class="twitter"><i class="fa fa-twitter fa-fw"></i></a>-->
-                                                <a href="mailto:cbillingsley@bayou.net" class="email"><i class="fa fa-envelope-o fa-fw"></i></a>
-				                            </div>
-				                        </div>
-				                    </div> <!-- end back panel -->
-				                </div> <!-- end card -->
-				            </div> <!-- end card-container -->
-				        </div> <!-- end col sm 3 -->
+<!--------------------------------- Third Row Of Rotating cards-------------------------------------------------------->
+	    <!--<div class="col-sm-10 col-sm-offset-1">-->
 				<!--         <div class="col-sm-1"></div> -->
 						<!-- ADD CARD 2 HERE -->
 				<!--         <div class="col-sm-1"></div> -->
 						<!-- ADD CARD 3 HERE -->
-				        </div> <!-- end col-sm-10 -->
+        <!--</div> &lt;!&ndash; end col-sm-10 &ndash;&gt;-->
+<!-------------- End Third Row ----------->
 
     </div> <!-- end row -->
     <div class="space-200"></div>
