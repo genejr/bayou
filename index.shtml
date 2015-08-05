@@ -37,8 +37,7 @@
 					<div class="row">
 						<div class="7u">
 							<h2>Powerful Applications</h2>
-							<p>!nService™, our flagship product, brings highly specialized patrol modules, mission critical incident
-							 response and case management systems to policing agencies.</p>
+							<p>We specialize in real-time, field-based incident reporting systems providing a consistent, awesome user experience regardless of desktop browser, tablet or mobile view.</p>
 						</div>
 						<div class="5u">
 							<ul>
@@ -46,6 +45,7 @@
 								<li><a href="about-us.shtml" class="button alt big icon fa-question-circle">More info</a></li>
 							</ul>
 						</div>
+						<h3>!nService™, our flagship product, brings highly specialized patrol modules, mission critical incident response and case management systems to policing agencies.</h3>
 					</div>
 				</div>
 			</div>
