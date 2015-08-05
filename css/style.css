@@ -27,15 +27,16 @@ CSS Added by Bayou peeps after the template
 
 	body
 	{
-		background-color:		#f7f7f7;
-		background-image:		-moz-linear-gradient(top, rgba(0,0,0,0.05), rgba(0,0,0,0)),		url('images/bg01.png');
-		background-image:		-webkit-linear-gradient(top, rgba(0,0,0,0.05), rgba(0,0,0,0)),	url('images/bg01.png');
-		background-image:		-o-linear-gradient(top, rgba(0,0,0,0.05), rgba(0,0,0,0)),		url('images/bg01.png');
-		background-image:		-ms-linear-gradient(top, rgba(0,0,0,0.05), rgba(0,0,0,0)),		url('images/bg01.png');
-		background-image:		linear-gradient(top, rgba(0,0,0,0.05), rgba(0,0,0,0)),			url('images/bg01.png');
-		background-position:	top left,														top left;
-		background-repeat:		repeat-x,														repeat;
-		background-size:		100% 30em,														auto;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c8d5d8+0,6f9b9f+50,cedadc+100 */
+background: #c8d5d8; /* Old browsers */
+background: -moz-linear-gradient(top,  #c8d5d8 0%, #6f9b9f 50%, #cedadc 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c8d5d8), color-stop(50%,#6f9b9f), color-stop(100%,#cedadc)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #c8d5d8 0%,#6f9b9f 50%,#cedadc 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #c8d5d8 0%,#6f9b9f 50%,#cedadc 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #c8d5d8 0%,#6f9b9f 50%,#cedadc 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #c8d5d8 0%,#6f9b9f 50%,#cedadc 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8d5d8', endColorstr='#cedadc',GradientType=0 ); /* IE6-9 */
+														auto;
 	}
 
 		body.is-loading *
