@@ -196,7 +196,7 @@ $.extend($.expr[':'], {
 			
 			( // filter node types that participate in the tab order
 				
-				// anchor tag
+				// blog tag
 				('a' == nodeName && a.href) ||
 				
 				// enabled form element

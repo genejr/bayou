@@ -293,7 +293,7 @@ function buildPager(els, opts) {
         var $a = (typeof opts.pagerAnchorBuilder == 'function')
             ? $(opts.pagerAnchorBuilder(i,o))
             : $('<a href="#">'+(i+1)+'</a>');
-        // don't reparent if anchor is in the dom
+        // don't reparent if blog is in the dom
         if ($a.parents('body').length == 0)
             $a.appendTo($p);
         $a.bind(opts.pagerEvent, function() {
@@ -373,7 +373,7 @@ $.fn.cycle.defaults = {
     pager:         null,  // id of element to use as pager container
     pagerClick:    null,  // callback fn for pager clicks:  function(zeroBasedSlideIndex, slideElement)
     pagerEvent:   'click', // event which drives the pager navigation
-    pagerAnchorBuilder: null, // callback fn for building anchor links
+    pagerAnchorBuilder: null, // callback fn for building blog links
     before:        null,  // transition callback (scope set to element to be shown)
     after:         null,  // transition callback (scope set to element that was shown)
     end:           null,  // callback invoked when the slideshow terminates (use with autostop or nowrap options)
